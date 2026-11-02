@@ -52,11 +52,13 @@ Al posto del box frecce "Il confronto è con il 2025" metti: *Primo anno di atti
 
 **Testo**
 
-Nel periodo gennaio–ottobre 2026 la pagina Facebook di Gen&Sys ha avviato la sua presenza: la pubblicazione è partita il 19 febbraio e da allora sono usciti 29 contenuti.
+Nel periodo gennaio–ottobre 2026 la pagina Facebook di Gen&Sys ha avviato la sua presenza: da febbraio sono usciti 31 post (25 foto e caroselli, 6 reel) e 2 storie.
 
 Le visualizzazioni hanno raggiunto quota 13.693. **11.526 arrivano dai contenuti sponsorizzati (84%) e 2.167 dalla componente organica.**
 
-**Settembre è stato il mese della svolta**: con le campagne attive la pagina ha registrato 10.825 visualizzazioni, 314 interazioni e 937 visite alla pagina, oltre il 90% di quelle dell'intero periodo.
+**I reel fanno la differenza**: con soli 6 contenuti hanno generato 9.788 visualizzazioni, più del 70% del totale.
+
+**Settembre è stato il mese della svolta**: con le campagne attive la pagina ha registrato 10.825 visualizzazioni e 937 visite alla pagina, oltre il 90% di quelle dell'intero periodo.
 
 **La community parte da zero**: oggi la pagina conta 19 follower, tutti arrivati nel 2026. È un pubblico piccolo, in linea con un profilo B2B che parla a installatori e professionisti del settore.
 
@@ -66,8 +68,8 @@ Le visualizzazioni hanno raggiunto quota 13.693. **11.526 arrivano dai contenuti
 |---|---|
 | **13.7k** | Visualizzazioni |
 | **2.167** | Visualizzazioni organiche |
+| **9.788** | Visualizzazioni dei reel |
 | **1.024** | Visite alla pagina |
-| **387** | Interazioni |
 
 Fonte dei dati: Meta
 Periodo: 1.01.26 – 31.10.26
@@ -80,7 +82,9 @@ Stesso box: *Primo anno di attività: il profilo pubblica dal 19 febbraio 2026.*
 
 **Testo**
 
-Nel periodo gennaio–ottobre 2026 il profilo Instagram di Gen&Sys ha pubblicato 29 contenuti e ha raccolto 10.478 visualizzazioni.
+Nel periodo gennaio–ottobre 2026 il profilo Instagram di Gen&Sys ha pubblicato 29 post e 63 storie, ha raccolto 10.478 visualizzazioni e ha raggiunto 5.580 account unici.
+
+**Più della metà delle visualizzazioni è organica**: 5.665 contro 4.813 dalle inserzioni. Su Instagram i contenuti si fanno vedere anche senza spinta.
 
 **I reel sono il formato che funziona.** In media ogni reel ha raggiunto 381 account, contro i 31 di un carosello: più di dieci volte tanto. Anche senza il reel di ottobre, il più visto dell'anno, la media resta di 166 account, cinque volte quella dei caroselli.
 
@@ -113,15 +117,19 @@ Il 2026 è stato l'anno di avvio della pagina Facebook di Gen&Sys.
 
 Da febbraio ad agosto la pagina ha lavorato su numeri contenuti, tra 80 e 400 visualizzazioni al mese. Fa eccezione maggio, con 1.375 visualizzazioni grazie alla prima campagna sul reel dedicato al Conto Termico 3.0.
 
-**A settembre la pagina ha cambiato passo.** Con due campagne attive in contemporanea le visualizzazioni sono salite a 10.825, le interazioni a 314 e le visite alla pagina a 937.
+**A settembre la pagina ha cambiato passo.** Con due campagne attive in contemporanea le visualizzazioni sono salite a 10.825 e le visite alla pagina a 937.
 
 **La componente organica è cresciuta nel corso dell'anno**: da meno di 100 visualizzazioni al mese in primavera a 663 a settembre e 305 a ottobre, senza sponsorizzazioni.
 
+**I video iniziano a farsi guardare**: 652 visualizzazioni di almeno 3 secondi e 3 ore e 14 minuti di tempo di visualizzazione complessivo. Le interazioni con i contenuti sono state 69.
+
 Le campagne restano il principale motore di visibilità, con più di otto visualizzazioni su dieci.
+
+Mockup consigliato: screenshot "Panoramica dei contenuti" di Facebook (1 feb – 31 ott).
 
 **Grafico (barre impilate: organiche / sponsorizzate)**
 
-| Mese | Visualizzazioni | Organiche | Sponsorizzate | Interazioni | Visite pagina |
+| Mese | Visualizzazioni | Organiche | Sponsorizzate | Interazioni e clic sui post* | Visite pagina |
 |---|---:|---:|---:|---:|---:|
 | Gen | 0 | 0 | 0 | 0 | 11 |
 | Feb | 170 | 170 | 0 | 28 | 23 |
@@ -134,6 +142,8 @@ Le campagne restano il principale motore di visibilità, con più di otto visual
 | Set | 10.825 | 663 | 10.162 | 314 | 937 |
 | Ott | 306 | 305 | 1 | 4 | 5 |
 | **Totale** | **13.693** | **2.167** | **11.526** | **387** | **1.024** |
+
+*\*Questa colonna somma interazioni e clic sui post: non coincide con le 69 "interazioni con i contenuti" di Meta Business Suite. Se la usi nel grafico, tieni questa etichetta; altrimenti lasciala fuori.*
 
 Fonte dei dati: Meta
 Periodo: 1.01.26 – 31.10.26
@@ -151,7 +161,9 @@ Nei primi mesi il profilo ha pubblicato soprattutto caroselli e immagini, con 20
 
 **Settembre e ottobre sono i mesi migliori.** A settembre la campagna traffico sul reel ha portato 5.797 visualizzazioni. A ottobre il reel sui tre criteri di un buon impianto ha raggiunto da solo 1.454 account e ha portato il mese a 2.193 visualizzazioni e 25 interazioni.
 
-**Gli annunci portano le persone, i reel le fanno restare.**
+**Contenuti e campagne lavorano insieme.** Le visualizzazioni organiche sono state 5.665, quelle dalle inserzioni 4.813. **Gli annunci portano le persone, i reel le fanno restare.**
+
+Mockup consigliato: screenshot "Panoramica dei contenuti" di Instagram (1 feb – 31 ott).
 
 **Grafico (barre: visualizzazioni per mese)**
 
@@ -169,8 +181,6 @@ Nei primi mesi il profilo ha pubblicato soprattutto caroselli e immagini, con 20
 | Ott | 2.193 | 25 |
 | **Totale** | **10.478** | **193** |
 
-*Instagram non separa le visualizzazioni organiche da quelle sponsorizzate.*
-
 Fonte dei dati: Meta
 Periodo: 1.01.26 – 31.10.26
 
@@ -182,9 +192,9 @@ Periodo: 1.01.26 – 31.10.26
 
 Nel 2026 i due canali hanno avuto ruoli diversi e complementari.
 
-**Facebook porta il volume grazie alle campagne.** Ha raggiunto 13.693 visualizzazioni, di cui 11.526 sponsorizzate, e 387 interazioni. Circa l'80% di questi risultati si concentra a settembre, quando le campagne erano attive.
+**Facebook porta il volume grazie alle campagne.** Ha raggiunto 13.693 visualizzazioni, di cui 11.526 da inserzioni e 2.167 dalla componente organica: meno di una su sei. Circa l'80% delle visualizzazioni si concentra a settembre, quando le campagne erano attive.
 
-**Instagram cresce di più con i contenuti.** Ha raggiunto 10.478 visualizzazioni ricevendo solo il 3% del budget pubblicitario. Il reel di ottobre ha superato da solo le 1.600 visualizzazioni.
+**Instagram genera più partecipazione.** Ha ottenuto 10.478 visualizzazioni, di cui 5.665 organiche: più della metà del totale, contro meno di un sesto su Facebook. Registra inoltre 193 interazioni contro le 69 di Facebook, quasi tre volte tanto, pur con meno visualizzazioni.
 
 I contenuti che funzionano sono gli stessi su entrambi i canali: **i reel brevi con una domanda diretta** ("Quanto ti costa scegliere un impianto sbagliato?", "E il tuo impianto com'è?") e quelli sul **Conto Termico 3.0**.
 
@@ -193,9 +203,11 @@ Facebook amplifica la visibilità quando c'è una campagna. Instagram trasforma 
 | | Facebook | Instagram |
 |---|---:|---:|
 | Visualizzazioni | 13.693 | 10.478 |
-| di cui organiche | 2.167 | n.d. |
-| Interazioni | 387 | 193 |
-| Contenuti pubblicati | 29 | 29 |
+| di cui organiche | 2.167 (16%) | 5.665 (54%) |
+| di cui da inserzioni | 11.526 (84%) | 4.813 (46%) |
+| Interazioni con i contenuti | 69 | 193 |
+| Post pubblicati | 31 | 29 |
+| Storie | 2 | 63 |
 | Follower | 19 | 31 |
 
 Fonte dei dati: Meta
@@ -239,13 +251,15 @@ Periodo: 1.01.26 – 31.10.26
 
 **Facebook (testo accanto all'icona)**
 
-Nel 2026 la pagina Facebook ha avviato un piano editoriale costante: 29 contenuti dal 19 febbraio, circa uno a settimana.
+Nel 2026 la pagina Facebook ha avviato un piano editoriale costante: 31 post da febbraio (25 foto e caroselli, 6 reel), circa uno a settimana, più 2 storie.
 
-I temi hanno raccontato il ruolo di Gen&Sys come partner tecnico degli installatori: dimensionamento delle pompe di calore, temperatura di mandata, trattamento acqua, Conto Termico 3.0, gestione delle pratiche. I cinque contenuti più visti sono tutti reel.
+I temi hanno raccontato il ruolo di Gen&Sys come partner tecnico degli installatori: dimensionamento delle pompe di calore, temperatura di mandata, trattamento acqua, Conto Termico 3.0, gestione delle pratiche.
+
+**I numeri premiano i video**: i 6 reel hanno generato 9.788 visualizzazioni, contro le 994 dei 25 post foto e carosello.
 
 **Instagram (testo accanto all'icona)**
 
-Nel 2026 il profilo Instagram ha pubblicato 29 contenuti: 20 caroselli, 6 reel e 3 immagini.
+Nel 2026 il profilo Instagram ha pubblicato 29 post (20 caroselli, 6 reel e 3 immagini) e 63 storie.
 
 I numeri indicano chiaramente quale formato premiare. **I reel hanno raggiunto in media 381 account e raccolto 11 interazioni ciascuno**, contro 31 account e meno di 4 interazioni per i caroselli. I caroselli tecnici restano utili per chi già segue il profilo, ma per farsi scoprire da nuovi professionisti servono più video.
 
@@ -356,10 +370,10 @@ Il 2026 ci ha dato una base chiara: sappiamo quali contenuti e quali posizioname
 
 **Testo**
 
-Il 2026 è stato l'anno di avvio della presenza social di Gen&Sys: due canali aperti, 58 contenuti pubblicati e le prime campagne.
+Il 2026 è stato l'anno di avvio della presenza social di Gen&Sys: due canali aperti, 60 post e 65 storie pubblicati e le prime campagne.
 
-- **Instagram è il canale dei reel.** Ogni reel ha raggiunto in media 381 account, più di dieci volte un carosello. Il reel sui tre criteri di un buon impianto ha raggiunto 1.454 account da solo.
-- **Facebook è il canale del volume.** Con il supporto delle campagne ha raggiunto 13.693 visualizzazioni e 1.024 visite alla pagina, la maggior parte a settembre.
+- **Instagram è il canale della partecipazione.** Più della metà delle visualizzazioni è organica (5.665 su 10.478) e le interazioni sono quasi il triplo di Facebook (193 contro 69). Ogni reel ha raggiunto in media 381 account, più di dieci volte un carosello.
+- **Facebook è il canale del volume.** Con il supporto delle campagne ha raggiunto 13.693 visualizzazioni e 1.024 visite alla pagina, la maggior parte a settembre. I 6 reel valgono da soli 9.788 visualizzazioni.
 - **I contenuti che funzionano sono chiari:** reel brevi con una domanda diretta e temi concreti come il Conto Termico 3.0, il contenuto più visto e più cliccato dell'anno su Facebook.
 - **L'advertising ha dato una lezione utile:** su Facebook e Instagram un clic costa 0,15 €, su Audience Network più di 2 €. Con 399,98 € investiti gli annunci hanno generato 521 clic sui link.
 
@@ -391,6 +405,6 @@ Uguale al report Honda.
 1. **La campagna "[INTERAZIONI] Giugno 2026" è ancora attiva.** A ottobre ha speso 54,61 €, tutti di fatto su Audience Network, con **zero clic**. Conviene metterla in pausa o escludere Audience Network subito, prima di presentare il report.
 2. **Reel del 12 ottobre (1.454 account raggiunti).** Nei dati delle campagne non risulta sponsorizzato su Instagram: sembra copertura organica. Se invece è stato messo in evidenza dall'app o da un'altra fonte, correggi la frase della slide 6 e usa come media dei reel 166 invece di 381.
 3. **Follower Instagram:** Meta non fornisce lo storico per i profili sotto i 100 follower, quindi non si possono dire i "nuovi follower nel periodo". Nel report c'è solo il totale di oggi (31).
-4. **Numeri aggiornati rispetto al PDF GenSys** (che arrivava al 1° ottobre): spesa 399,98 € invece di 347,69 €, impression FB 13.693 invece di 13.387, visualizzazioni IG 10.478 invece di 8.323, interazioni IG 193 invece di 168, contenuti 29 invece di 27.
-5. **Contenuti FB:** Windsor riporta anche due post del 18 febbraio senza testo (probabilmente foto profilo e copertina). Non sono contati nei 29.
+4. **Numeri aggiornati rispetto al PDF GenSys** (che arrivava al 1° ottobre): spesa 399,98 € invece di 347,69 €, impression FB 13.693 invece di 13.387, visualizzazioni IG 10.478 invece di 8.323, interazioni IG 193 invece di 168, post IG 29 invece di 27.
+5. **Allineamento con Meta Business Suite:** i testi usano i numeri dei tuoi screenshot (31 post FB, 69 interazioni FB, 5.665 visualizzazioni IG organiche, 5.580 di copertura IG), così testo e mockup coincidono. Lo screenshot riporta anche "Visualizzazioni 8.823" sotto il dettaglio FB: non l'ho usato perché non è chiaro cosa misuri (probabilmente gli spettatori unici).
 6. **Slide 15 e 18:** le proposte 2027 sono una mia bozza basata sui dati. Vanno allineate con quello che proponete al cliente (budget, obiettivi).
